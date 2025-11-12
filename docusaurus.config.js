@@ -116,10 +116,10 @@ const config = {
           {
             title: 'Community',
             items: [
-              {
-                label: 'Stack Overflow',
-                href: 'https://x.com/Zerrowon0g',
-              },
+              // {
+              //   label: 'Stack Overflow',
+              //   href: 'https://x.com/Zerrowon0g',
+              // },
               {
                 label: 'Discord',
                 href: 'https://x.com/Zerrowon0g',
