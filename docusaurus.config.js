@@ -81,7 +81,7 @@ const config = {
       // Replace with your project's social card
       image: 'img/docusaurus-social-card.jpg',
       navbar: {
-        title: 'Zerrow Documentation',
+        title: 'Zerrow',
         logo: {
           alt: 'Zerrow Logo',
           src: 'img/zerrow.png',
@@ -120,10 +120,10 @@ const config = {
               //   label: 'Stack Overflow',
               //   href: 'https://x.com/Zerrowon0g',
               // },
-              {
-                label: 'Discord',
-                href: 'https://x.com/Zerrowon0g',
-              },
+              // {
+              //   label: 'Discord',
+              //   href: 'https://x.com/Zerrowon0g',
+              // },
               {
                 label: 'X',
                 href: 'https://x.com/Zerrowon0g',
