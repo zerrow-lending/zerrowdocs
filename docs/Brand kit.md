@@ -7,10 +7,15 @@ sidebar_position: 6
 ## 1. Intro
 
 &emsp;&emsp;Please be sure to read these guidelines first before using any brand assets. 
+
 &emsp;&emsp;Although zerrow distributes some of its technology under open-source licenses, the zerrow brands are not distributed under the same licenses. 
+
 &emsp;&emsp;The following zerrow "Brand Assets" are copyrighted material, and you may only use them in accordance with the policy detailed below: 
+
 &emsp;&emsp;The zerrow logos, word mark, icon 
+
 &emsp;&emsp;The zerrow name
+
 &emsp;&emsp;Other visual assets produced by zerrow
 
 ## 2. What you may do
